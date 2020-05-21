@@ -11,7 +11,7 @@
     <Header>
         <h1>こんにちは-SENPAI!</h1>
         <p>こんにちは-SENPAI, or Hello Senpai is the latest </p>
-        ![Image description](joe.PNG)
+        ![Image description](Joe.png)
         <img src="Images/Joe%20normal.jpg" alt="Joe" width="300" height="300" class="flowLeft">
         <h1>PLAY GAME!</h1>
     </Header>
